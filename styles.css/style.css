@@ -108,6 +108,12 @@ main > section{
 #quick-list{
     font-weight: 500;
 }
+.fact{
+    border: 1px solid rgb(255, 144, 14);;
+}
+.fact-container{
+    
+}
 /*responsive media query*/
 @media screen and(max-width:576px) {
     .navbar, .nav-links, .team {
